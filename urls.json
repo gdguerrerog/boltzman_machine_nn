@@ -1,1 +1,45 @@
-[{"d": "0", "urls": {"w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w0.json", "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a0.json", "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b0.json"}}]
+[
+  {
+    "d": "0",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w0.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a0.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b0.json"
+    }
+  }, {
+    "d": "1",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w1.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a1.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b1.json"
+    }
+  }, {
+    "d": "2",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w2.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a2.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b2.json"
+    }
+  }, {
+    "d": "3",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w3.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a3.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b3.json"
+    }
+  }, {
+    "d": "4",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w4.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a4.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b4.json"
+    }
+  }, {
+    "d": "5",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w5.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a5.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b5.json"
+    }
+  }
+]
