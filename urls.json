@@ -41,5 +41,33 @@
       "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a5.json",
       "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b5.json"
     }
+  }, {
+    "d": "6",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w6.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a6.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b6.json"
+    }
+  }, {
+    "d": "7",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w7.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a7.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b7.json"
+    }
+  }, {
+    "d": "8",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w8.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a8.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b8.json"
+    }
+  }, {
+    "d": "9",
+    "urls": {
+      "w": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/w9.json",
+      "a": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/a9.json",
+      "b": "https://raw.githubusercontent.com/gdguerrerog/boltzman_machine_nn/main/b9.json"
+    }
   }
 ]
